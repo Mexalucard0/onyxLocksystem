@@ -1,1 +1,12 @@
 # onyxLocksystem
+
++ Dette er et ESX onyxLocksystem til vRP
+
+# Preview: 
+![Screenshot](https://i.imgur.com/Bo1pJTl.png)
+![Screenshot2](https://i.imgur.com/xZxjMvT.png)
+
+# Credits:
+https://forum.cfx.re/t/release-esx-onyxlocksystem-keys-hotwiring/1272845?__cf_chl_captcha_tk__=f082d1131a2f36d563a60fe59699dc788b010da5-1590791331-0-AVPF5uzorLAOIxtbc-_SYjp4douknki2lYTFwuNjzK4Go573JCTtIRyNpsI_6JzFVUoDUX6DgB8vdoMUiwrldo4Yur5pB65xzUIDcEV599eTjwJrbUCjVV4nqJEpsV_Ll51gw1ZUjEMa1NaAg8Z32hEfPk1SERxOljySbvy1ekn5Zc3ZtVBMNVwQJ5n1x4m9CSIHx-pB9RRv3707Q4o6NxSpp11n_iPEHwZEb3TwUw6oJ5NyrlKx-AufO6PelnMoxGLXt6tfBxNdZlE23sqQ9GR6kRc4qUUp5lu4ER0JFjPUT4AEwi6U3ueZQOq8yRQDpZan0ygvaJuUBxcy9w6Gz-URxn7-W5AoZJIzfokPXheZwbaSE02_uH9uMTG6KoYEIiAR9ZGVU7kvO_1IrEjd97ofOW8pILVeEvxw6BJLfSlsK8EsBQFvOq_-bTOMCo0jPza3rCGyQu566q4nhgLPn4Wh1piLdZHQlPpFi-TLNb0EBr2vhAgyx18YqljH59K0iIpk61SSg_5uNPyLjWFttV-JS1HuAD-AOX1BUPnDvDk0jUWOZoHpuCyVt2XwZqkzC73DbPdJ9ZdmvFV-yxixa57T4lkouytGG1oyOPSsY4VRZzIah-RmidTEY4zcRgBSfw
+
++ Bugs/Support: https://discord.gg/YQjCtbA
